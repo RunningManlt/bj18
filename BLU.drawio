@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-04T04:44:40.730Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36 Edg/85.0.564.44" etag="Gns3CGejl3ZzZ4apgjLr" version="13.6.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-09-04T06:00:35.667Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36 Edg/85.0.564.44" etag="YGllb3SaH0r9Xoj3GSfD" version="13.6.6" type="github" pages="5">
   <diagram id="thj_J4kE75ELtRwNi25f" name="第 1 页">
     <mxGraphModel dx="852" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -286,6 +286,38 @@
       <root>
         <mxCell id="FONJtJORBbfrtrXwADF0-0" />
         <mxCell id="FONJtJORBbfrtrXwADF0-1" parent="FONJtJORBbfrtrXwADF0-0" />
+        <mxCell id="2NIvcuXWy2boLgyIIoz0-6" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fontSize=14;" vertex="1" parent="FONJtJORBbfrtrXwADF0-1">
+          <mxGeometry x="288.5" y="300" width="396" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="2NIvcuXWy2boLgyIIoz0-3" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fontSize=14;" vertex="1" parent="FONJtJORBbfrtrXwADF0-1">
+          <mxGeometry x="310" y="350" width="350" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="2NIvcuXWy2boLgyIIoz0-0" value="&lt;font face=&quot;Times New Roman&quot;&gt;Task&lt;br&gt;BLE protocol stack&lt;br&gt;Profiles&lt;br&gt;application&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fontSize=14;align=center;" vertex="1" parent="FONJtJORBbfrtrXwADF0-1">
+          <mxGeometry x="320" y="360" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2NIvcuXWy2boLgyIIoz0-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;......&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fontSize=14;" vertex="1" parent="FONJtJORBbfrtrXwADF0-1">
+          <mxGeometry x="490" y="360" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2NIvcuXWy2boLgyIIoz0-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Task&lt;/font&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;.&lt;/font&gt;&lt;b style=&quot;font-size: 17px&quot;&gt;.....&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;fontSize=14;" vertex="1" parent="FONJtJORBbfrtrXwADF0-1">
+          <mxGeometry x="580" y="360" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2NIvcuXWy2boLgyIIoz0-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;OSAL&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;抽象层&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;sketch=0;fontSize=14;" vertex="1" parent="FONJtJORBbfrtrXwADF0-1">
+          <mxGeometry x="432.5" y="460" width="105" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2NIvcuXWy2boLgyIIoz0-5" value="&lt;font face=&quot;宋体&quot;&gt;HAL硬件抽象层&lt;br&gt;-------硬件-------&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;glass=0;sketch=0;fontSize=14;" vertex="1" parent="FONJtJORBbfrtrXwADF0-1">
+          <mxGeometry x="313" y="510" width="347" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2NIvcuXWy2boLgyIIoz0-7" value="&lt;font face=&quot;Times New Roman&quot;&gt;BLE&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;系统架构&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;sketch=0;fontSize=14;" vertex="1" parent="FONJtJORBbfrtrXwADF0-1">
+          <mxGeometry x="429" y="310" width="115" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="cbFeodiXrC7JGbNQE68h" name="第 5 页">
+    <mxGraphModel dx="852" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="xuWEdI9rB9XgAfbVXiYe-0" />
+        <mxCell id="xuWEdI9rB9XgAfbVXiYe-1" parent="xuWEdI9rB9XgAfbVXiYe-0" />
       </root>
     </mxGraphModel>
   </diagram>
