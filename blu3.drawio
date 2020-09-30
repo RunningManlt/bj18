@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-30T08:35:08.771Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 Edg/85.0.564.63" etag="UDPwpHlVC4_Lk4W12MJi" version="13.7.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-09-30T08:51:47.966Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 Edg/85.0.564.63" etag="WwY1LOU0pQyYyYC1SuW2" version="13.7.6" type="github" pages="5">
   <diagram id="zuNRxGBrAJ63429gdNsI" name="第 1 页">
     <mxGraphModel dx="852" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -236,6 +236,88 @@
         <mxCell id="hPLyqtObs-_PNgz5ncKX-23" value="&lt;font face=&quot;Times New Roman&quot;&gt;0&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="hPLyqtObs-_PNgz5ncKX-17">
           <mxGeometry x="400" width="80" height="40" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="sg5kUAqwgzUVQm7WaaKL" name="第 4 页">
+    <mxGraphModel dx="852" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="62hb2zK_04PuyLXfWf0S-0" />
+        <mxCell id="62hb2zK_04PuyLXfWf0S-1" parent="62hb2zK_04PuyLXfWf0S-0" />
+        <mxCell id="tiISv6GegAK5UsFR7V4H-0" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="62hb2zK_04PuyLXfWf0S-1">
+          <mxGeometry x="120" y="120" width="480" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tiISv6GegAK5UsFR7V4H-1" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="tiISv6GegAK5UsFR7V4H-0">
+          <mxGeometry width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tiISv6GegAK5UsFR7V4H-2" value="&lt;font face=&quot;宋体&quot;&gt;名称&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="tiISv6GegAK5UsFR7V4H-1">
+          <mxGeometry width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tiISv6GegAK5UsFR7V4H-3" value="&lt;font face=&quot;宋体&quot;&gt;同步字&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="tiISv6GegAK5UsFR7V4H-1">
+          <mxGeometry x="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tiISv6GegAK5UsFR7V4H-4" value="&lt;font face=&quot;宋体&quot;&gt;传输类型&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="tiISv6GegAK5UsFR7V4H-1">
+          <mxGeometry x="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tiISv6GegAK5UsFR7V4H-5" value="&lt;font face=&quot;宋体&quot;&gt;commandID&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="tiISv6GegAK5UsFR7V4H-1">
+          <mxGeometry x="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tiISv6GegAK5UsFR7V4H-6" value="&lt;font face=&quot;Times New Roman&quot;&gt;Padding&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="tiISv6GegAK5UsFR7V4H-1">
+          <mxGeometry x="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tiISv6GegAK5UsFR7V4H-25" value="&lt;font face=&quot;宋体&quot;&gt;校验&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="tiISv6GegAK5UsFR7V4H-1">
+          <mxGeometry x="400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tiISv6GegAK5UsFR7V4H-7" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="tiISv6GegAK5UsFR7V4H-0">
+          <mxGeometry y="40" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tiISv6GegAK5UsFR7V4H-8" value="&lt;font face=&quot;宋体&quot;&gt;数值&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="tiISv6GegAK5UsFR7V4H-7">
+          <mxGeometry width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tiISv6GegAK5UsFR7V4H-9" value="&lt;font face=&quot;Times New Roman&quot;&gt;0x55&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="tiISv6GegAK5UsFR7V4H-7">
+          <mxGeometry x="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tiISv6GegAK5UsFR7V4H-10" value="&lt;font face=&quot;Times New Roman&quot;&gt;0x03&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="tiISv6GegAK5UsFR7V4H-7">
+          <mxGeometry x="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tiISv6GegAK5UsFR7V4H-11" value="&lt;font face=&quot;Times New Roman&quot;&gt;commandID&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="tiISv6GegAK5UsFR7V4H-7">
+          <mxGeometry x="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tiISv6GegAK5UsFR7V4H-12" value="&lt;font face=&quot;Times New Roman&quot;&gt;Padding&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="tiISv6GegAK5UsFR7V4H-7">
+          <mxGeometry x="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tiISv6GegAK5UsFR7V4H-26" value="&lt;font face=&quot;Times New Roman&quot;&gt;checksum&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="tiISv6GegAK5UsFR7V4H-7">
+          <mxGeometry x="400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tiISv6GegAK5UsFR7V4H-13" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="tiISv6GegAK5UsFR7V4H-0">
+          <mxGeometry y="80" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tiISv6GegAK5UsFR7V4H-14" value="&lt;font face=&quot;宋体&quot;&gt;字节索引&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="tiISv6GegAK5UsFR7V4H-13">
+          <mxGeometry width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tiISv6GegAK5UsFR7V4H-15" value="&lt;font face=&quot;Times New Roman&quot;&gt;19&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="tiISv6GegAK5UsFR7V4H-13">
+          <mxGeometry x="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tiISv6GegAK5UsFR7V4H-16" value="&lt;font face=&quot;Times New Roman&quot;&gt;18&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="tiISv6GegAK5UsFR7V4H-13">
+          <mxGeometry x="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tiISv6GegAK5UsFR7V4H-17" value="&lt;font face=&quot;Times New Roman&quot;&gt;17&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="tiISv6GegAK5UsFR7V4H-13">
+          <mxGeometry x="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tiISv6GegAK5UsFR7V4H-18" value="&lt;font face=&quot;Times New Roman&quot;&gt;16-1&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="tiISv6GegAK5UsFR7V4H-13">
+          <mxGeometry x="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tiISv6GegAK5UsFR7V4H-27" value="&lt;font face=&quot;Times New Roman&quot;&gt;0&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="tiISv6GegAK5UsFR7V4H-13">
+          <mxGeometry x="400" width="80" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="yyoMTtODhThr1nVhsmJ3" name="第 5 页">
+    <mxGraphModel dx="852" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="cV31754eD7O4uO8dSD5w-0" />
+        <mxCell id="cV31754eD7O4uO8dSD5w-1" parent="cV31754eD7O4uO8dSD5w-0" />
       </root>
     </mxGraphModel>
   </diagram>
