@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-30T08:25:09.482Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 Edg/85.0.564.63" etag="nMBZJU3zzlKVoQV9dSwB" version="13.7.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-09-30T08:35:08.771Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 Edg/85.0.564.63" etag="UDPwpHlVC4_Lk4W12MJi" version="13.7.6" type="github" pages="3">
   <diagram id="zuNRxGBrAJ63429gdNsI" name="第 1 页">
     <mxGraphModel dx="852" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -166,10 +166,76 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zcEC0tt8DEZTp46J1_Al" name="第 3 页">
-    <mxGraphModel dx="852" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="710" dy="481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="hPLyqtObs-_PNgz5ncKX-0" />
         <mxCell id="hPLyqtObs-_PNgz5ncKX-1" parent="hPLyqtObs-_PNgz5ncKX-0" />
+        <mxCell id="hPLyqtObs-_PNgz5ncKX-2" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="hPLyqtObs-_PNgz5ncKX-1">
+          <mxGeometry x="160" y="200" width="480" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hPLyqtObs-_PNgz5ncKX-3" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="hPLyqtObs-_PNgz5ncKX-2">
+          <mxGeometry width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hPLyqtObs-_PNgz5ncKX-4" value="&lt;font face=&quot;宋体&quot;&gt;名称&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="hPLyqtObs-_PNgz5ncKX-3">
+          <mxGeometry width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hPLyqtObs-_PNgz5ncKX-5" value="&lt;font face=&quot;宋体&quot;&gt;同步字&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="hPLyqtObs-_PNgz5ncKX-3">
+          <mxGeometry x="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hPLyqtObs-_PNgz5ncKX-6" value="&lt;font face=&quot;宋体&quot;&gt;传输类型&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="hPLyqtObs-_PNgz5ncKX-3">
+          <mxGeometry x="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hPLyqtObs-_PNgz5ncKX-7" value="&lt;font face=&quot;Times New Roman&quot;&gt;Index&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="hPLyqtObs-_PNgz5ncKX-3">
+          <mxGeometry x="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hPLyqtObs-_PNgz5ncKX-8" value="&lt;font face=&quot;Times New Roman&quot;&gt;payload&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="hPLyqtObs-_PNgz5ncKX-3">
+          <mxGeometry x="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hPLyqtObs-_PNgz5ncKX-9" value="&lt;font face=&quot;宋体&quot;&gt;校验&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="hPLyqtObs-_PNgz5ncKX-3">
+          <mxGeometry x="400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hPLyqtObs-_PNgz5ncKX-10" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="hPLyqtObs-_PNgz5ncKX-2">
+          <mxGeometry y="40" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hPLyqtObs-_PNgz5ncKX-11" value="&lt;font face=&quot;宋体&quot;&gt;数值&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="hPLyqtObs-_PNgz5ncKX-10">
+          <mxGeometry width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hPLyqtObs-_PNgz5ncKX-12" value="&lt;font face=&quot;Times New Roman&quot;&gt;0x55&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="hPLyqtObs-_PNgz5ncKX-10">
+          <mxGeometry x="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hPLyqtObs-_PNgz5ncKX-13" value="&lt;font face=&quot;Times New Roman&quot;&gt;0x02&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="hPLyqtObs-_PNgz5ncKX-10">
+          <mxGeometry x="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hPLyqtObs-_PNgz5ncKX-14" value="&lt;font face=&quot;Times New Roman&quot;&gt;n&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="hPLyqtObs-_PNgz5ncKX-10">
+          <mxGeometry x="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hPLyqtObs-_PNgz5ncKX-15" value="&lt;font face=&quot;Times New Roman&quot;&gt;eph&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="hPLyqtObs-_PNgz5ncKX-10">
+          <mxGeometry x="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hPLyqtObs-_PNgz5ncKX-16" value="&lt;font face=&quot;Times New Roman&quot;&gt;checknum&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="hPLyqtObs-_PNgz5ncKX-10">
+          <mxGeometry x="400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hPLyqtObs-_PNgz5ncKX-17" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="hPLyqtObs-_PNgz5ncKX-2">
+          <mxGeometry y="80" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hPLyqtObs-_PNgz5ncKX-18" value="&lt;font face=&quot;宋体&quot;&gt;字节索引&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="hPLyqtObs-_PNgz5ncKX-17">
+          <mxGeometry width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hPLyqtObs-_PNgz5ncKX-19" value="&lt;font face=&quot;Times New Roman&quot;&gt;19&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="hPLyqtObs-_PNgz5ncKX-17">
+          <mxGeometry x="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hPLyqtObs-_PNgz5ncKX-20" value="&lt;font face=&quot;Times New Roman&quot;&gt;18&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="hPLyqtObs-_PNgz5ncKX-17">
+          <mxGeometry x="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hPLyqtObs-_PNgz5ncKX-21" value="&lt;font face=&quot;Times New Roman&quot;&gt;17-16&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="hPLyqtObs-_PNgz5ncKX-17">
+          <mxGeometry x="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hPLyqtObs-_PNgz5ncKX-22" value="&lt;font face=&quot;Times New Roman&quot;&gt;15-1&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="hPLyqtObs-_PNgz5ncKX-17">
+          <mxGeometry x="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hPLyqtObs-_PNgz5ncKX-23" value="&lt;font face=&quot;Times New Roman&quot;&gt;0&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="hPLyqtObs-_PNgz5ncKX-17">
+          <mxGeometry x="400" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
