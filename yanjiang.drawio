@@ -1,1 +1,101 @@
-<mxfile host="app.diagrams.net" modified="2020-11-02T05:55:05.945Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 Edg/86.0.622.58" etag="nYbPh1jCbjH5s6qEkACx" version="13.8.0" type="github" pages="3"><diagram id="Z5wNPQram7tawORNL1IO" name="第 1 页">7Vbfj5NAEP5rNtEHDV0KhUe2pWeiNuYwej5dNmUPOIHtbbeF+tc7C0Mp9lprPL3EyAPZ+fab2Z2fQOxpUV8pvkrfy1jkhFpxTewZodRzKLwNsGsBZzJpgURlcQuNeiDKvgkELUQ3WSzWA6KWMtfZagguZVmKpR5gXClZDWl3Mh+euuKJOAKiJc+P0c9ZrFN0i056/I3IkrQ7eeT67U7BOzJ6sk55LKsDyA6JPVVS6nZV1FORm9h1cWn15id29xdTotSXKDxU19HoPv1UFrcer9Xb2+uleDXGu+ld57CIwX8UpdKpTGTJ87BHmZKbMhbGqgVSz3kn5QrAEYD3QusdJpNvtAQo1UWOu6LO9M3B+osx9dpBaVaj5UbYdUKp1e7mUDjQMmKv1kid3p0s9ZwXWW6Aj1kBtUSthajgfS0LXgKlDYHx+2RkEVrLjVqKM+HsKpSrROgzPLrPP/SNkIWAK4OeEjnX2XZ4D44VnOx5fZJhgXn+hZyj3S3PN3gSCV3iT0hgkXBCWEDY3Cz8MWEOCR0ShMQPSAjijHizhmMTxpoFIz6Q54RNiec1yMyYAi3PIcw6TfaPKq+vK1MYVZppEa14E+8KZsuwhrhaYn05Js1rreRXMZW5VI0xez634fmxANAbj6E3vr3P/1YoLerzFXCcsU7BxSbHKUc9lKt+ZlALsfRgXoytP5Rk539jP2Vj0wsb237OxqZHjb1YRNELQt1cY8TMJ5Cjp+7Dxnx72CNN0e9RN2k50L7ACQ3ZZ4YGMwPGA2t73TWgWcxIwJpx4jW9Dpabdg89Mx6C4JF5gLcDj9sLtge+fI7xcK6Mfms+jK2fz4f9DPkr88E+qpWrD9E/FXP3gph7TxNyEPv/uGbv4GfYDr8D</diagram><diagram id="HvBujwl2OsdRUH6LtPdN" name="第 2 页">7Vldb9owFP01ftyE44QkjwmE9WGTJjGJdi+Tm7iJNxOjYAr0189OTL5X0lJKtfaliq/tG/uecw8HCtBkufuS4VXyjUeEAWMU7QCaAsOw4Uj+VYF9ETAdWATijEZFqBaY0weig3pfvKERWTcWCs6ZoKtmMORpSkLRiOEs49vmsjvOmm9d4Zh0AvMQs250QSORFFHHsKv4FaFxcngzHLvFzBIfFuubrBMc8W0thAKAJhnnonha7iaEqdqVdVkg+Ov3D+snXUCxuEqYn84/FclmT9lSXiEjqXjZ1EaR+h6zja4XCCzgTIHng2AMXAe4M317sT+UNOObNCIq7Qggf5tQQeYrHKrZreSQjCViyeQIysc7nooZXlKW80cm9wLgyOQm8KfARXIFw7eE+Tj8E+eJJ5zxTK5NeSoz+mXVVTJ9WpIJsmvBe6Q2sARMEp3wJRHZXu7TWQxHY6xJboz0eFujjA4lNbaYOoY1SeMycwWEfNBYPAEX1IOLDVwfuFDh4lt5DW0Fk+u+A4DguAWQfWGAzB6AJC4IeE7eQbKM1nsCyIRvDCCrByBZMQf4ubI5AfDs9wRQW+KQeWGAIOwi1IaBpJGnPIAchQyv1zR8auXJjoprDaN6vlHPny09mu5qU9P9YZDK+11XC9Xwpj5XbctHh33F8UnUMSRDgJP35pssJI+s0/UROIvJY/lQPxEywrCg983D9cGqt37nVB67kmC71eGoxYzi/HpX3Yi0EhnHEhUX7CTKWVbe5wTiDTI9ikMz4MF8agZ8u0tOCfRX1dgS+oys6QO+zadGTY5iRuNUEViSgMiu91VvU2lQPT2xpFGkNg5gM6hbZf26yqA+SzT+oRqDyXKaBvT4nDNqQNn3ZTcf1wDYUIBKEC6kAeZADTDOogHmS2mAdWkN6PNvXQ2QZJKtPwGBAxwHeF5uwk1lv9Ua6SIKCzEFTtdC/B/ycOpnyWny0GPiXkse4ECL8LbkAQ2UB+ss8lB+bT78VvRceUDHEp1bHsYfFqHVhRfTAPs1NQCC078mwAtrgDVQA8zzWIRW6yL7uRbhWKJza4DzYREG0dI+jzzIYfXbegFq9Q8KFPwF</diagram><diagram id="MnMbbkmyrh_py8ylE1E3" name="第 3 页">7ZZNj5swEIZ/zRwbgfk+AoG2Ulddbdru2QEvWDEYOU6T9NfXNs53qmjbZg9VcyDjd8ZjPPNgAC/vNu8FHtoHXhMGyKk34E0BoThA6qqF7SgEUTQKjaD1KLkHYUZ/ECs6Vl3RmixPAiXnTNLhVKx435NKnmhYCL4+DXvh7HTVATfkQphVmF2qz7SWrd0Wig76B0KbdreyGyajp8O7YLuTZYtrvj6SvAK8XHAuR6vb5ITp2u3qskBfN98WC+xFj6h6fHj6PA0+vhuTla+Zst+CIL38u6n9eMz9HbOVLRgUISQBZA4UAaRTSENAIVPrZnOhrEZbUPiQZZCVUESQ5JCU12IiyDwdpo3MxJgyyu2uN4Kv+pro+3PUhHVLJZkNuNLetYJRaa3smBq5ytyXXw8YnhOW4WrRmBw5Z1woV897okOl4AuyEwF5jvkpzwvvZYk7ygzNeoMFxON2ppB4eu6CyKq1t1QLPnzBoiHSCj3/pFe2o4ELmfNeLYdpL5+4xJLy3jorzhgelnRudqsVW2oiJNmcwXmjs+4eN/WYEt4RKbZq3i5LaAndno3XR8BbqT1m3bMits9Ys0994EgZFqXXYJVcwcowFftQJJAiSFxT9RJSV7viErLoGkQhpLGJCXWjkvJfwOpeIHj+bRBcL3xLEgLnKgmpancORQyxam5qThFVq8CcParR0UVPf9WxGi/bfasxo41+/CpVRKJ6lOkSU/UuSK2jo3XNyJhj0Jm7TaPfepPxTYPGf51WV9CZ+KG2dXWRO0GBOQAObbxBy3HH/wSde9GCzmlJrtDiXDk3orvBgn7z2PgPy71h8aPwzWBRw8NXlfEdfZp6xU8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-02T13:13:35.749Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 Edg/86.0.622.58" etag="T_mh4MpSZ3kKobYTrOXP" version="13.8.8" type="github" pages="3">
+  <diagram id="Z5wNPQram7tawORNL1IO" name="第 1 页">
+    <mxGraphModel dx="852" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qwRS1jhVnm_8axrK_Rce-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;" parent="1" source="qwRS1jhVnm_8axrK_Rce-1" target="qwRS1jhVnm_8axrK_Rce-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qwRS1jhVnm_8axrK_Rce-1" value="无线电定位系统（罗兰系统）" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=#FF3333;fontFamily=宋体;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="160" y="280" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qwRS1jhVnm_8axrK_Rce-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;" parent="1" source="qwRS1jhVnm_8axrK_Rce-2" target="qwRS1jhVnm_8axrK_Rce-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qwRS1jhVnm_8axrK_Rce-2" value="NNSS(&lt;font face=&quot;宋体&quot;&gt;美国海军卫星导航系统&lt;/font&gt;)" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=#FF3333;fontFamily=Times New Roman;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="400" y="280" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qwRS1jhVnm_8axrK_Rce-3" value="GPS" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=#FF3333;fontFamily=Times New Roman;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="600" y="280" width="80" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="HvBujwl2OsdRUH6LtPdN" name="第 2 页">
+    <mxGraphModel dx="710" dy="481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="1W31_jT5ZiW1tWHhlBnS-0" />
+        <mxCell id="1W31_jT5ZiW1tWHhlBnS-1" parent="1W31_jT5ZiW1tWHhlBnS-0" />
+        <mxCell id="1W31_jT5ZiW1tWHhlBnS-2" value="卫星" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;labelBackgroundColor=none;shadow=1;" vertex="1" parent="1W31_jT5ZiW1tWHhlBnS-1">
+          <mxGeometry x="280" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1W31_jT5ZiW1tWHhlBnS-3" value="监测站" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;labelBackgroundColor=none;shadow=1;" vertex="1" parent="1W31_jT5ZiW1tWHhlBnS-1">
+          <mxGeometry x="160" y="270" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1W31_jT5ZiW1tWHhlBnS-4" value="注入站" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;labelBackgroundColor=none;shadow=1;" vertex="1" parent="1W31_jT5ZiW1tWHhlBnS-1">
+          <mxGeometry x="410" y="270" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1W31_jT5ZiW1tWHhlBnS-5" value="主控站" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;labelBackgroundColor=none;shadow=1;" vertex="1" parent="1W31_jT5ZiW1tWHhlBnS-1">
+          <mxGeometry x="280" y="340" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1W31_jT5ZiW1tWHhlBnS-11" value="" style="endArrow=classic;html=1;fontFamily=宋体;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1W31_jT5ZiW1tWHhlBnS-1" source="1W31_jT5ZiW1tWHhlBnS-2" target="1W31_jT5ZiW1tWHhlBnS-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="230" as="sourcePoint" />
+            <mxPoint x="270" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1W31_jT5ZiW1tWHhlBnS-12" value="卫星信号" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontFamily=宋体;" connectable="0" vertex="1" parent="1W31_jT5ZiW1tWHhlBnS-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1W31_jT5ZiW1tWHhlBnS-13" value="" style="endArrow=classic;html=1;fontFamily=宋体;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1W31_jT5ZiW1tWHhlBnS-1" source="1W31_jT5ZiW1tWHhlBnS-4" target="1W31_jT5ZiW1tWHhlBnS-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="230" as="sourcePoint" />
+            <mxPoint x="570" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1W31_jT5ZiW1tWHhlBnS-14" value="卫星导航电文等" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontFamily=宋体;" connectable="0" vertex="1" parent="1W31_jT5ZiW1tWHhlBnS-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1W31_jT5ZiW1tWHhlBnS-15" value="" style="endArrow=classic;html=1;fontFamily=宋体;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1W31_jT5ZiW1tWHhlBnS-1" source="1W31_jT5ZiW1tWHhlBnS-3" target="1W31_jT5ZiW1tWHhlBnS-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="430" as="sourcePoint" />
+            <mxPoint x="300" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1W31_jT5ZiW1tWHhlBnS-16" value="卫星信号" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontFamily=宋体;" connectable="0" vertex="1" parent="1W31_jT5ZiW1tWHhlBnS-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1W31_jT5ZiW1tWHhlBnS-17" value="" style="endArrow=classic;html=1;fontFamily=宋体;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1W31_jT5ZiW1tWHhlBnS-1" source="1W31_jT5ZiW1tWHhlBnS-5" target="1W31_jT5ZiW1tWHhlBnS-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="370" as="sourcePoint" />
+            <mxPoint x="500" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1W31_jT5ZiW1tWHhlBnS-18" value="卫星导航电文等" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontFamily=宋体;" connectable="0" vertex="1" parent="1W31_jT5ZiW1tWHhlBnS-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="MnMbbkmyrh_py8ylE1E3" name="第 3 页">
+    <mxGraphModel dx="852" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="k2UxVkka37P2cPMROD5I-0" />
+        <mxCell id="k2UxVkka37P2cPMROD5I-1" parent="k2UxVkka37P2cPMROD5I-0" />
+        <mxCell id="k2UxVkka37P2cPMROD5I-48" value="数学&lt;br&gt;仿真&lt;br&gt;系统" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeColor=#000000;fontFamily=宋体;sketch=0;dropTarget=0;noLabel=0;portConstraintRotation=0;collapsible=0;" vertex="1" parent="k2UxVkka37P2cPMROD5I-1">
+          <mxGeometry x="160" y="160" width="80" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="k2UxVkka37P2cPMROD5I-49" value="射频信号&lt;br&gt;模拟系统" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeColor=#000000;fontFamily=宋体;sketch=0;" vertex="1" parent="k2UxVkka37P2cPMROD5I-1">
+          <mxGeometry x="340" y="160" width="136" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="k2UxVkka37P2cPMROD5I-50" value="导航电文" style="html=1;shadow=1;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.46;dx=21.25;notch=0;labelBackgroundColor=none;sketch=0;strokeColor=#000000;fontFamily=宋体;" vertex="1" parent="k2UxVkka37P2cPMROD5I-1">
+          <mxGeometry x="240" y="190" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="k2UxVkka37P2cPMROD5I-52" value="射频信号" style="html=1;shadow=1;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.46;dx=21.25;notch=0;labelBackgroundColor=none;sketch=0;strokeColor=#000000;fontFamily=宋体;" vertex="1" parent="k2UxVkka37P2cPMROD5I-1">
+          <mxGeometry x="476" y="190" width="100" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
