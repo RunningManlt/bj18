@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-02T14:44:53.492Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 Edg/86.0.622.58" etag="6Cvq1h2FAzHySEpfri5X" version="13.8.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-12-15T14:30:50.515Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.60" etag="f8ejUFB54CbA4nBcqd9n" version="13.8.8" type="github" pages="3">
   <diagram id="Z5wNPQram7tawORNL1IO" name="第 1 页">
     <mxGraphModel dx="852" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -27,16 +27,16 @@
       <root>
         <mxCell id="1W31_jT5ZiW1tWHhlBnS-0" />
         <mxCell id="1W31_jT5ZiW1tWHhlBnS-1" parent="1W31_jT5ZiW1tWHhlBnS-0" />
-        <mxCell id="1W31_jT5ZiW1tWHhlBnS-2" value="卫星" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;labelBackgroundColor=#ffffff;shadow=1;fillColor=none;" parent="1W31_jT5ZiW1tWHhlBnS-1" vertex="1">
+        <mxCell id="1W31_jT5ZiW1tWHhlBnS-2" value="卫星" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;labelBackgroundColor=none;shadow=1;fillColor=none;" parent="1W31_jT5ZiW1tWHhlBnS-1" vertex="1">
           <mxGeometry x="280" y="200" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1W31_jT5ZiW1tWHhlBnS-3" value="监测站" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;labelBackgroundColor=#ffffff;shadow=1;fillColor=none;" parent="1W31_jT5ZiW1tWHhlBnS-1" vertex="1">
+        <mxCell id="1W31_jT5ZiW1tWHhlBnS-3" value="监测站" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;labelBackgroundColor=none;shadow=1;fillColor=none;" parent="1W31_jT5ZiW1tWHhlBnS-1" vertex="1">
           <mxGeometry x="160" y="270" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1W31_jT5ZiW1tWHhlBnS-4" value="注入站" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;labelBackgroundColor=#ffffff;shadow=1;fillColor=none;" parent="1W31_jT5ZiW1tWHhlBnS-1" vertex="1">
+        <mxCell id="1W31_jT5ZiW1tWHhlBnS-4" value="注入站" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;labelBackgroundColor=none;shadow=1;fillColor=none;" parent="1W31_jT5ZiW1tWHhlBnS-1" vertex="1">
           <mxGeometry x="410" y="270" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1W31_jT5ZiW1tWHhlBnS-5" value="主控站" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;labelBackgroundColor=#ffffff;shadow=1;fillColor=none;" parent="1W31_jT5ZiW1tWHhlBnS-1" vertex="1">
+        <mxCell id="1W31_jT5ZiW1tWHhlBnS-5" value="主控站" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;labelBackgroundColor=none;shadow=1;fillColor=none;" parent="1W31_jT5ZiW1tWHhlBnS-1" vertex="1">
           <mxGeometry x="280" y="340" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1W31_jT5ZiW1tWHhlBnS-11" value="" style="endArrow=classic;html=1;fontFamily=宋体;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=#ffffff;" parent="1W31_jT5ZiW1tWHhlBnS-1" source="1W31_jT5ZiW1tWHhlBnS-2" target="1W31_jT5ZiW1tWHhlBnS-3" edge="1">
@@ -46,7 +46,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1W31_jT5ZiW1tWHhlBnS-12" value="卫星信号" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontFamily=宋体;labelBackgroundColor=none;" parent="1W31_jT5ZiW1tWHhlBnS-11" connectable="0" vertex="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-20.14" y="-14.91" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="1W31_jT5ZiW1tWHhlBnS-13" value="" style="endArrow=classic;html=1;fontFamily=宋体;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=#ffffff;" parent="1W31_jT5ZiW1tWHhlBnS-1" source="1W31_jT5ZiW1tWHhlBnS-4" target="1W31_jT5ZiW1tWHhlBnS-2" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -55,7 +57,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1W31_jT5ZiW1tWHhlBnS-14" value="卫星导航电文等" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontFamily=宋体;labelBackgroundColor=none;" parent="1W31_jT5ZiW1tWHhlBnS-13" connectable="0" vertex="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="44.58" y="-15.23" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="1W31_jT5ZiW1tWHhlBnS-15" value="" style="endArrow=classic;html=1;fontFamily=宋体;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=#ffffff;" parent="1W31_jT5ZiW1tWHhlBnS-1" source="1W31_jT5ZiW1tWHhlBnS-3" target="1W31_jT5ZiW1tWHhlBnS-5" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -64,7 +68,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1W31_jT5ZiW1tWHhlBnS-16" value="卫星信号" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontFamily=宋体;labelBackgroundColor=none;" parent="1W31_jT5ZiW1tWHhlBnS-15" connectable="0" vertex="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-29.86" y="5.09" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="1W31_jT5ZiW1tWHhlBnS-17" value="" style="endArrow=classic;html=1;fontFamily=宋体;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=#ffffff;" parent="1W31_jT5ZiW1tWHhlBnS-1" source="1W31_jT5ZiW1tWHhlBnS-5" target="1W31_jT5ZiW1tWHhlBnS-4" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -73,7 +79,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1W31_jT5ZiW1tWHhlBnS-18" value="卫星导航电文等" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontFamily=宋体;labelBackgroundColor=none;" parent="1W31_jT5ZiW1tWHhlBnS-17" connectable="0" vertex="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="35.42" y="14.77" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
@@ -83,16 +91,16 @@
       <root>
         <mxCell id="k2UxVkka37P2cPMROD5I-0" />
         <mxCell id="k2UxVkka37P2cPMROD5I-1" parent="k2UxVkka37P2cPMROD5I-0" />
-        <mxCell id="k2UxVkka37P2cPMROD5I-48" value="数学&lt;br&gt;仿真&lt;br&gt;系统" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeColor=#000000;fontFamily=宋体;sketch=0;dropTarget=0;noLabel=0;portConstraintRotation=0;collapsible=0;" vertex="1" parent="k2UxVkka37P2cPMROD5I-1">
+        <mxCell id="k2UxVkka37P2cPMROD5I-48" value="数学&lt;br&gt;仿真&lt;br&gt;系统" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeColor=#000000;fontFamily=宋体;sketch=0;dropTarget=0;noLabel=0;portConstraintRotation=0;collapsible=0;fillColor=none;" parent="k2UxVkka37P2cPMROD5I-1" vertex="1">
           <mxGeometry x="160" y="160" width="80" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="k2UxVkka37P2cPMROD5I-49" value="射频信号&lt;br&gt;模拟系统" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeColor=#000000;fontFamily=宋体;sketch=0;" vertex="1" parent="k2UxVkka37P2cPMROD5I-1">
+        <mxCell id="k2UxVkka37P2cPMROD5I-49" value="射频信号&lt;br&gt;模拟系统" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeColor=#000000;fontFamily=宋体;sketch=0;fillColor=none;" parent="k2UxVkka37P2cPMROD5I-1" vertex="1">
           <mxGeometry x="340" y="160" width="136" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="k2UxVkka37P2cPMROD5I-50" value="导航电文" style="html=1;shadow=1;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.46;dx=21.25;notch=0;labelBackgroundColor=none;sketch=0;strokeColor=#000000;fontFamily=宋体;" vertex="1" parent="k2UxVkka37P2cPMROD5I-1">
+        <mxCell id="k2UxVkka37P2cPMROD5I-50" value="导航电文" style="html=1;shadow=1;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.46;dx=21.25;notch=0;labelBackgroundColor=none;sketch=0;strokeColor=#000000;fontFamily=宋体;fillColor=none;" parent="k2UxVkka37P2cPMROD5I-1" vertex="1">
           <mxGeometry x="240" y="190" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="k2UxVkka37P2cPMROD5I-52" value="射频信号" style="html=1;shadow=1;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.46;dx=21.25;notch=0;labelBackgroundColor=none;sketch=0;strokeColor=#000000;fontFamily=宋体;" vertex="1" parent="k2UxVkka37P2cPMROD5I-1">
+        <mxCell id="k2UxVkka37P2cPMROD5I-52" value="射频信号" style="html=1;shadow=1;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.46;dx=21.25;notch=0;labelBackgroundColor=none;sketch=0;strokeColor=#000000;fontFamily=宋体;fillColor=none;" parent="k2UxVkka37P2cPMROD5I-1" vertex="1">
           <mxGeometry x="476" y="190" width="100" height="70" as="geometry" />
         </mxCell>
       </root>
